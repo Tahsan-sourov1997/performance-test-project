@@ -21,7 +21,7 @@ This document explains how to run a performance test with JMeter against the Boo
 
 ## Author
 
-- Author: Tashfiquzzaman
+- Author: Tahsan Hossain
 
  # Load testing Report
 
